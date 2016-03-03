@@ -1,4 +1,3 @@
-#adding a stupid comment
 #Calculate reduced stats for data file at J= 100 c/bp
 for datafile in "$@"
 do
